@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Boomerang HD" status="online",BOOM (720p)
-https://h3.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjIgNzoyNjoyMSBQTSZoYXNoX3ZhbHVlPS9HM1MxQlpBaUxzNU5KRkwrM2hKSnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h3.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=259760380&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMTI6NDY6MTAgQU0maGFzaF92YWx1ZT1Cd3cwKzVwZllxVnJrcmtvdHNWY0FBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTM3U
 #EXTINF:-1 tvg-id="Cartoon Network HD" status="online",TOON (720p)
-https://h1.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjIgNzo1NDozNCBQTSZoYXNoX3ZhbHVlPXU1cU1Eb21idmI1SVNzOTlyWVhiR0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMTI6NDY6NTUgQU0maGFzaF92YWx1ZT1RaDU0aTBjZVgramYzQmJMQ1ZCd0dnPT0mdmFsaWRtaW51dGVzPTI0MA==
