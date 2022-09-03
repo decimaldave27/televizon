@@ -4,3 +4,6 @@ https://h4.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=259733436&wm
 #EXTM3U
 #EXTINF:-1 tvg-id="Science Channel HD" status="online",Science Channel HD
 https://h4.ustvgo.la/Science/myStream/chunks.m3u8?nimblesessionid=259761817&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMjo1OTozNyBQTSZoYXNoX3ZhbHVlPVlLZnFwTjFSZTBBYU9QeERZYnlsT2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTM3U
+#EXTINF:-1 tvg-id="FXX HD" status="online",FXX HD
+https://h4.ustvgo.la/FXX/myStream/chunks.m3u8?nimblesessionid=259763573&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMzowMzoxOCBQTSZoYXNoX3ZhbHVlPVpJaGJ0YzhoSkhHaEQyR3ZCc3JFeWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
