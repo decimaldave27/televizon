@@ -1,6 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Boomerang HD" status="online",BOOM (720p)
-https://h2.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=267079591&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMTI6NDk6MTAgQU0maGFzaF92YWx1ZT1nWFRXTTJmVzIwRGNycmRqaFM5dkR3PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTM3U
-#EXTINF:-1 tvg-id="Cartoon Network HD" status="online",TOON (720p)
-https://h3.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=259762415&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMTI6NDY6NTUgQU0maGFzaF92YWx1ZT1RaDU0aTBjZVgramYzQmJMQ1ZCd0dnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h1.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=294471753&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMTI6NTI6MDYgQU0maGFzaF92YWx1ZT1OUWNraEhqbERtMnowRFdJMHRFSXZBPT0mdmFsaWRtaW51dGVzPTI0MA==
