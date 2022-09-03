@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Boomerang HD" status="online",BOOM (720p)
+#EXTINF:-1 tvg-id="Boomerang HD" status="online",Boomerang HD
 https://h4.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=259733436&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMTo1OTozNiBQTSZoYXNoX3ZhbHVlPXJ2VGdNWVd2Wjhab3NDVTJkOFVOTEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTM3U
-#EXTINF:-1 tvg-id="Cartoon Network HD" status="online",TOON (720p)
-https://h3.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=259984349&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMTo1ODo1NyBQTSZoYXNoX3ZhbHVlPURlMEdseUw2dDZqcmM1b0JRZ0tyWVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 tvg-id="Science Channel HD" status="online",Science Channel HD
+https://h4.ustvgo.la/Science/myStream/chunks.m3u8?nimblesessionid=259761817&wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjIgMjo1OTozNyBQTSZoYXNoX3ZhbHVlPVlLZnFwTjFSZTBBYU9QeERZYnlsT2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
